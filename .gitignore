@@ -1,2 +1,6 @@
 venv
 .idea
+apiProject/__pycache__/
+authentication/__pycache__/
+.DS_Store
+authentication/.DS_Store
